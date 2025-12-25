@@ -2,6 +2,11 @@
 
 - installation react-vite
 - configured tailwindcss
+-Header
+- Routing of App
+- Sign up form
+- form Validation
+- useRef Hook
 
 
 # features
